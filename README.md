@@ -1,6 +1,8 @@
 # Interview_questions_week1
 In this series I make simulated interviews with chatGPT as a recruiter who interviews me for various poistions depending on my stack this aims to track my progress, watch my strengths and weaknesses and get me ready for real world interviews and tasks and in this week:
+
 the job description: We’re a fast-moving SaaS company building a scalable, secure platform using Node.js, Django, and PostgreSQL, with Redis, Docker, and some microservices. We're looking for someone to own backend features, collaborate with frontend, and deploy working code regularly. We’re remote, async, and expect engineers to be independent, communicative, and technically sharp.
+
 Points I was asked in: What’s the hardest backend system you built?
 → Showed how you handled trade-offs between reliability, scalability, speed, and security using SQL + NoSQL.
 
